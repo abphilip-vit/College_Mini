@@ -1,1 +1,1 @@
-# College - CSE4019: Image Processing
+# College - CSE4019: Edge Detection
