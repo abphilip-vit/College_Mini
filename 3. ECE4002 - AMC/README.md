@@ -1,1 +1,1 @@
-# College - ECE4002: Gesture Based Doorbell using Arduino
+# College - ECE4002: Gesture based Doorbell using Arduino
