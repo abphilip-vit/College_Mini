@@ -21,8 +21,7 @@
 -	**Parameter-4**: Part of Speech tagging for finding an optimal number of adjectives or “beautifying words” to keep the article interesting throughout but still avoid bloating of the real content. The limits are given in terms of the difference between the total number of words versus the number of adjectives, and an optimal number is assumed to be between 600-700
 -	**Parameter-5**: Polysyllabic words do not necessarily increase the complexity of the words, but in a general case, assuming it does, I have given an optimal number to be between 25-35 words with 4 or more syllables
 -	**Confidence Score**: Instead of a regular approach of pass/fail criteria, I’ve embedded score calculation in all the parameters to measure how each article (even if they’re from multiple authors) stand against the requirements/expectations of the employer and the articles qualifying will be mentioned with their scores.
-  
-<br/>
+<br />
   
 # Author
-**Allen Ben Philipose**
+- **Allen Ben Philipose**
